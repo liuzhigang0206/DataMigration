@@ -1,0 +1,4 @@
+//服务解控的文件的位置 
+System.out.print(System.getProperty("java.library.path"));
+//临时文件放的位置
+System.out.print(System.getProperty("java.io.tmpdir"));
